@@ -1,4 +1,4 @@
-public class Solution2 {
+public class AddTwoNumber {
         public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
 

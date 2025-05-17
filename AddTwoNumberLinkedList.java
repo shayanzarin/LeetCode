@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-class Solution1 {
+class AddTwoNumberLinkedList {
     public  static LinkedList addTwoNumbers(LinkedList l1, LinkedList l2) {
 
         int sum = linkedListToIntReverce(l1) + linkedListToIntReverce(l2);
